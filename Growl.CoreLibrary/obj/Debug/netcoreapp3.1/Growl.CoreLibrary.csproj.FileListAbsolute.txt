@@ -1,0 +1,9 @@
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\obj\Debug\netcoreapp3.1\Growl.CoreLibrary.AssemblyInfoInputs.cache
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\obj\Debug\netcoreapp3.1\Growl.CoreLibrary.AssemblyInfo.cs
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\obj\Debug\netcoreapp3.1\Growl.CoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\bin\Debug\netcoreapp3.1\Growl.CoreLibrary.deps.json
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\bin\Debug\netcoreapp3.1\Growl.CoreLibrary.dll
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\bin\Debug\netcoreapp3.1\Growl.CoreLibrary.pdb
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\obj\Debug\netcoreapp3.1\Growl.CoreLibrary.dll
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\obj\Debug\netcoreapp3.1\Growl.CoreLibrary.pdb
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.CoreLibrary\obj\Debug\netcoreapp3.1\Growl.CoreLibrary.csprojAssemblyReference.cache

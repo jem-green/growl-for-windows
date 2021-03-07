@@ -1,0 +1,12 @@
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\obj\Debug\netcoreapp3.1\Growl.Connector.csprojAssemblyReference.cache
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\obj\Debug\netcoreapp3.1\Growl.Connector.AssemblyInfoInputs.cache
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\obj\Debug\netcoreapp3.1\Growl.Connector.AssemblyInfo.cs
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\obj\Debug\netcoreapp3.1\Growl.Connector.csproj.CoreCompileInputs.cache
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\bin\Debug\netcoreapp3.1\Growl.CoreLibrary.dll
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\bin\Debug\netcoreapp3.1\Growl.Connector.deps.json
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\bin\Debug\netcoreapp3.1\Growl.Connector.dll
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\bin\Debug\netcoreapp3.1\Growl.Connector.pdb
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\bin\Debug\netcoreapp3.1\Growl.CoreLibrary.pdb
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\obj\Debug\netcoreapp3.1\Growl.Connector.csproj.CopyComplete
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\obj\Debug\netcoreapp3.1\Growl.Connector.dll
+C:\Users\jemgr\OneDrive\Source\Projects\grow-for-windows\Growl.Connector\obj\Debug\netcoreapp3.1\Growl.Connector.pdb
